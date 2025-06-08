@@ -1,6 +1,6 @@
 <?php
 
-// ucitaj users.xml
+
 $xml = simplexml_load_file('podaci/korisnici.xml');
 
 ?>
