@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+    <korisnik>
+        <ime>Petra</ime>
+        <prezime>Jurić</prezime>
+        <korisnicko_ime>pjuric</korisnicko_ime>
+        <email>petra.juric@example.com</email>
+        <uloga>Administrator</uloga>
+    </korisnik>
+    <korisnik>
+        <ime>Ivan</ime>
+        <prezime>Perić</prezime>
+        <korisnicko_ime>iperic</korisnicko_ime>
+        <email>ivan.peric@example.com</email>
+        <uloga>Korisnik</uloga>
+    </korisnik>
+    <korisnik>
+        <ime>Nina</ime>
+        <prezime>Šarić</prezime>
+        <korisnicko_ime>nsaric</korisnicko_ime>
+        <email>nina.saric@example.com</email>
+        <uloga>Moderator</uloga>
+    </korisnik>
+    <korisnik>
+        <ime>Tomislav</ime>
+        <prezime>Kovač</prezime>
+        <korisnicko_ime>tkovac</korisnicko_ime>
+        <email>tomislav.kovac@example.com</email>
+        <uloga>Korisnik</uloga>
+    </korisnik>
+    <korisnik>
+        <ime>Martina</ime>
+        <prezime>Barišić</prezime>
+        <korisnicko_ime>mbarisic</korisnicko_ime>
+        <email>martina.barisic@example.com</email>
+        <uloga>Administrator</uloga>
+    </korisnik>
+</korisnici>

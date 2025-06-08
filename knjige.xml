@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjige>
+    <zapis>
+        <naslov>Na Drini ćuprija</naslov>
+        <autor>Ivo Andrić</autor>
+        <clanski_broj>1001</clanski_broj>
+        <datum_posudbe>2025-05-01</datum_posudbe>
+        <adresa>Trg bana Jelačića 1, Zagreb</adresa>
+    </zapis>
+    <zapis>
+        <naslov>Prokleta avlija</naslov>
+        <autor>Ivo Andrić</autor>
+        <clanski_broj>1002</clanski_broj>
+        <datum_posudbe>2025-04-28</datum_posudbe>
+        <adresa>Vukovarska 12, Split</adresa>
+    </zapis>
+    <zapis>
+        <naslov>Derviš i smrt</naslov>
+        <autor>Meša Selimović</autor>
+        <clanski_broj>1003</clanski_broj>
+        <datum_posudbe>2025-05-05</datum_posudbe>
+        <adresa>Ante Starčevića 15, Osijek</adresa>
+    </zapis>
+    <zapis>
+        <naslov>Zločin i kazna</naslov>
+        <autor>Fjodor Dostojevski</autor>
+        <clanski_broj>1004</clanski_broj>
+        <datum_posudbe>2025-04-22</datum_posudbe>
+        <adresa>Kralja Zvonimira 10, Rijeka</adresa>
+    </zapis>
+    <zapis>
+        <naslov>Gorski vijenac</naslov>
+        <autor>Petar II Petrović Njegoš</autor>
+        <clanski_broj>1005</clanski_broj>
+        <datum_posudbe>2025-05-07</datum_posudbe>
+        <adresa>Šetalište kralja Petra I, Cetinje</adresa>
+    </zapis>
+</knjige>
