@@ -1,6 +1,6 @@
 <?php
 
-// ucitaj knjige.xml
+
 $xml = simplexml_load_file('podaci/knjige.xml');
 
 ?>
